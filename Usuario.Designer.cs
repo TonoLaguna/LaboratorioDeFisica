@@ -74,6 +74,7 @@ namespace LaboratorioDeFisica
             this.BtnCancelar.TabIndex = 3;
             this.BtnCancelar.Text = "CANCELAR";
             this.BtnCancelar.UseVisualStyleBackColor = true;
+            this.BtnCancelar.Click += new System.EventHandler(this.BtnCancelar_Click);
             // 
             // label1
             // 

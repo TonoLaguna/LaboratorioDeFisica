@@ -30,6 +30,7 @@ namespace LaboratorioDeFisica
             {
                 Usuario entrar = new Usuario();
                 entrar.Show();
+                this.Hide();
             }
             else
             {

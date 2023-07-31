@@ -9,3 +9,5 @@ C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\
 C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\LaboratorioDeFisica.exe
 C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\LaboratorioDeFisica.pdb
 C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\LaboratorioDeFisica.Usuario.resources
+C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\LaboratorioDeFisica.Mru.resources
+C:\Users\jgaitan\source\repos\LaboratorioDeFisica\LaboratorioDeFisica\obj\Debug\LaboratorioDeFisica.Dinamica.resources

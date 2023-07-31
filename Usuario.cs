@@ -23,6 +23,14 @@ namespace LaboratorioDeFisica
         {
             Mru tema1 = new Mru();
             tema1.Show();
+            this.Hide();
+        }
+
+        private void BtnCancelar_Click(object sender, EventArgs e)
+        {
+            Form1  cancelar = new Form1 ();
+            cancelar.Show();
+            this.Hide();
         }
     }
 }
